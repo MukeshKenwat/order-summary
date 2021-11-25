@@ -88,9 +88,6 @@ To see how you can add code snippets, see below:
 
 ```
 
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Continued development
 
 css and responsive layouts areas that I want to continue focusing on in future projects. These could be concepts i'm still not completely comfortable with. BEM naming convention techniques I found useful that I want to refine and perfect.
