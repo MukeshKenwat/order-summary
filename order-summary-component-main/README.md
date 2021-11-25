@@ -108,6 +108,6 @@ css and responsive layouts areas that I want to continue focusing on in future p
 ## Acknowledgments
 
 David
-@Daviddp96
+@Daviddp96(https://www.frontendmentor.io/profile/Daviddp96)
 
 David solution give me some idea to improve my code.....
