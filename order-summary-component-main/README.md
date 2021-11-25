@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: 
+- Live Site URL: (https://www.mukeshkenwat.tech)
 
 ## My process
 
@@ -101,7 +101,7 @@ css and responsive layouts areas that I want to continue focusing on in future p
 
 ## Author
 
-- Website - [Mukesh Kenwat](https://www.your-site.com)
+- Website - [Mukesh Kenwat]https://www.mukeshkenwat.tech)
 - Frontend Mentor - [@MukeshKenwat](https://www.frontendmentor.io/profile/MukeshKenwat)
 
 
@@ -214,7 +214,7 @@ css and responsive layouts areas that I want to continue focusing on in future p
 
 ## Author
 
-- Website - [Mukesh Kenwat](https://www.your-site.com)
+- Website - [Mukesh Kenwat]https://www.mukeshkenwat.tech)
 - Frontend Mentor - [@MukeshKenwat](https://www.frontendmentor.io/profile/MukeshKenwat)
 
 
