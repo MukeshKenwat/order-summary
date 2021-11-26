@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./sceenshot.jpeg.png)
+![](./sceenshot.png)
 
 
 ### Links
 
-- Solution URL: 
+- Solution URL: (https://www.mukeshkenwat.tech/)
 - Live Site URL: (https://www.mukeshkenwat.tech)
 
 ## My process
@@ -52,12 +52,12 @@ To see how you can add code snippets, see below:
 
 ```html
 <main>
-  <section class="section">
-        <article class="container-center">
+  <div class="section">
+        <div class="container-center">
           <div class="summary-container">
             <h1 class="summary__title">Order Summary</h1>
-        </article>
-      </section>
+        </div>
+      </div>
 </main>
 
 ```
@@ -94,7 +94,7 @@ css and responsive layouts areas that I want to continue focusing on in future p
 
 ### Useful resources
 
-- [Example resource 1](https://courses.kevinpowell.co/courses/conquering-responsive-layouts) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+-[resource 1](https://courses.kevinpowell.co/courses/conquering-responsive-layouts) - This helped me for responsive layout. I really liked this pattern and will use it going forward.
 
 ## Author
 
@@ -103,6 +103,11 @@ css and responsive layouts areas that I want to continue focusing on in future p
 
 
 ## Acknowledgments
+
+Parves Hossain Rabby
+@Iamparves (https://www.frontendmentor.io/profile/Iamparves)
+
+Parves gave 
 
 David
 @Daviddp96(https://www.frontendmentor.io/profile/Daviddp96)
