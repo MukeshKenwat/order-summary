@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.mukeshkenwat.tech/)
-- Live Site URL: (https://www.mukeshkenwat.tech)
+- Live Site URL:(https://order-summary-card-mukesh.netlify.app/)
 
 ## My process
 
@@ -98,7 +98,7 @@ css and responsive layouts areas that I want to continue focusing on in future p
 
 ## Author
 
-- Website - [Mukesh Kenwat]https://www.mukeshkenwat.tech)
+- Website - [Mukesh Kenwat](https://order-summary-card-mukesh.netlify.app/)
 - Frontend Mentor - [@MukeshKenwat](https://www.frontendmentor.io/profile/MukeshKenwat)
 
 
